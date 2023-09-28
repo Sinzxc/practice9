@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practice9</string>
+    <string name="txtview2">Лабораторная работа № 9</string>
+    <string name="author">Листопад И.А.Бунин</string>
+    <string name="lyrics">Лес, точно терем расписной,
+                            Лиловый, золотой, багряный,
+                            Веселой, пестрою стеной
+                            Стоит над светлою поляной.</string>
+
+</resources>
